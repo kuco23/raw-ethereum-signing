@@ -69,4 +69,4 @@ async function main() {
   return provider.waitForTransaction(txId)
 }
 
-main()
+console.log(main())
